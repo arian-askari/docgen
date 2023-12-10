@@ -13,4 +13,4 @@ Furhtermore, we provide example of experimenting with different highlighting tok
 
 ## Generated Data
 
-Check out the generated data, including synthetic expanded queries, highlighted queries, and generated documents, by exploring the `generated_data` directory.
+Check out the generated data, including synthetic expanded queries, highlighted queries, and generated documents, by exploring the [`generated_data`](https://github.com/arian-askari/docgen/tree/main/generated_data) directory.
